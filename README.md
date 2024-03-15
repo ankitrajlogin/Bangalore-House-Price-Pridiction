@@ -1,4 +1,4 @@
-# Bangalore-House-Price-Pridiction
+# Bangaluru-House-Price-Pridiction
 This project utilizes machine learning techniques, specifically linear regression, to predict home prices in Bangalore, India. The model is trained on a dataset containing various features of homes in Bangalore such as location, total square feet, number of bedrooms, etc.
 
 ## Steps Followed
